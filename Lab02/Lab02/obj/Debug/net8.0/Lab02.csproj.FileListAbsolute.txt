@@ -1,0 +1,14 @@
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfoInputs.cache
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfo.cs
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\Lab02.csproj.CoreCompileInputs.cache
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\bin\Debug\net8.0\Lab02.exe
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\bin\Debug\net8.0\Lab02.deps.json
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\bin\Debug\net8.0\Lab02.runtimeconfig.json
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\bin\Debug\net8.0\Lab02.dll
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\bin\Debug\net8.0\Lab02.pdb
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\Lab02.dll
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\refint\Lab02.dll
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\Lab02.pdb
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
+E:\Universitate\University-projects\Semester5\Formal Languages And Compiler Design\Lab02\Lab02\obj\Debug\net8.0\ref\Lab02.dll

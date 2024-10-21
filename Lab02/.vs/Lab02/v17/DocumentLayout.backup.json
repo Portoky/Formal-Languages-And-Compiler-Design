@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|e:\\universitate\\university-projects\\semester5\\formal languages and compiler design\\lab02\\lab02\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|solutionrelative:lab02\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|e:\\universitate\\university-projects\\semester5\\formal languages and compiler design\\lab02\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|solutionrelative:lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|e:\\universitate\\university-projects\\semester5\\formal languages and compiler design\\lab02\\lab02\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|solutionrelative:lab02\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|e:\\universitate\\university-projects\\semester5\\formal languages and compiler design\\lab02\\lab02\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7B213-EBB7-4CDC-AA9A-EB286887C214}|Lab02\\Lab02.csproj|solutionrelative:lab02\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\HashTable.cs",
+              "RelativeDocumentMoniker": "Lab02\\HashTable.cs",
+              "ToolTip": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\HashTable.cs",
+              "RelativeToolTip": "Lab02\\HashTable.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAtwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:56:55.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SymbolTable.cs",
+              "DocumentMoniker": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\SymbolTable.cs",
+              "RelativeDocumentMoniker": "Lab02\\SymbolTable.cs",
+              "ToolTip": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\SymbolTable.cs",
+              "RelativeToolTip": "Lab02\\SymbolTable.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:56:09.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pair.cs",
+              "DocumentMoniker": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\Pair.cs",
+              "RelativeDocumentMoniker": "Lab02\\Pair.cs",
+              "ToolTip": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\Pair.cs",
+              "RelativeToolTip": "Lab02\\Pair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:01:41.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02\\Program.cs",
+              "ToolTip": "E:\\Universitate\\University-projects\\Semester5\\Formal Languages And Compiler Design\\Lab02\\Lab02\\Program.cs",
+              "RelativeToolTip": "Lab02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:59:42.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
